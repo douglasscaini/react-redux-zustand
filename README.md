@@ -33,12 +33,12 @@ $ npm install
 
 # Iniciar o projeto (front):
 $ npm run dev
--> http://localhost:5173
+> http://localhost:5173
 
 # Iniciar o projeto (back):
 $ npm run server
--> http://localhost:3000
--> http://localhost:3000/courses
+> http://localhost:3000
+> http://localhost:3000/courses
 
 # Testes
 $ npm run test
